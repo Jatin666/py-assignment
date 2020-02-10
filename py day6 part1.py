@@ -58,3 +58,7 @@ print(a[0]*2)
 hii this code is used to double your word :
 ENTER A STRING : h
 hh
+
+
+a='Apple'
+print((a[0])+(a[0]+a[1])+ (a[0]+a[1]*2)+(a[0]+a[1]*2+a[3])+(a))
